@@ -7,3 +7,5 @@ function question02() {
 function question03() {
     return 0;
 }
+
+ocument.getElementById("question03").innerHTML = question03();
